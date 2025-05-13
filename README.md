@@ -2,7 +2,10 @@
 https://ecommerce-website-gold-nine.vercel.app/
 
 ## 📸 Preview
+
+
 Uploading Screen Recording 2025-05-13 170640 (1) (1).mp4…
+
 
 
 A modern and responsive e-commerce web application built for seamless online shopping experiences.
